@@ -2,7 +2,7 @@
 # Progress Update
 
 I have successfully completed the following steps:
-1. Downloaded the model code and followed the Technical Description and User Guides.
+1. Downloaded the model code (https://ral.ucar.edu/projects/wrf_hydro/model-code) and followed the Technical Description and User Guides (https://wrf-hydro.readthedocs.io/en/latest/index.html).
 2. Built the model and ran a provided Test Case with 'idealized' forcing to ensure my setup is correct.
 3. Ran the test case with one of the configurations available and compared my model output with the provided output files.
 
